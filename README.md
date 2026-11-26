@@ -8,7 +8,7 @@ This repository serves as my central hub. It contains my foundational practice p
 ## 🛠️ Technical Toolkit
 - **Languages:** Python (pandas, numpy, seaborn, matplotlib), SQL
 - **Databases:** PostgreSQL
-- **Visualization & BI:** Tableau, Power BI, Excel (PivotTables, Advanced Formulas)
+- **Visualization & BI:** Tableau, Excel (PivotTables, Advanced Formulas)
 - **Environments:** VS Code, Jupyter, Git/GitHub
 
 ---
@@ -20,6 +20,7 @@ This repository serves as my central hub. It contains my foundational practice p
   *Tools: Python, PostgreSQL, Tableau*
   Analyzed 99,493 patient encounters to identify high-risk cohorts for 30-day readmissions. Discovered counter-intuitive risk factors (younger patients and ER history) and delivered a strategic memo to reduce hospital penalties.
 
+*(More capstones coming soon)*
 
 ---
 
@@ -40,8 +41,8 @@ These projects demonstrate my ability to handle data at each stage of the analyt
 
 ### 4. Tableau: Interactive Dashboards (`/tableau-dashboard`)
 - **Goal:** Translate analytical findings into interactive, stakeholder-facing visuals.
-- **Outcome:** Built and published a dashboard highlighting regional profit margins and sub-category losses. 
-  - *[View the Live Tableau Dashboard](https://public.tableau.com/app/profile/irene.peter.okon/vizzes)*
+- **Outcome:** Built and published dashboards highlighting regional profit margins and sub-category losses. 
+  - *[View My Live Tableau Portfolio](https://public.tableau.com/app/profile/irene.peter.okon/vizzes)*
 
 ---
 
@@ -51,5 +52,5 @@ These projects demonstrate my ability to handle data at each stage of the analyt
 3. **Continuous Growth:** I am actively expanding my portfolio into new industries (Marketing, Finance, Supply Chain) to build versatile analytical skills.
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** ireneokon01@gmail.com
+- **LinkedIn:** [Irene Okon](https://www.linkedin.com/in/irene-okon-1a7005432)
+- **Email:** [ireneokon01@gmail.com](mailto:ireneokon01@gmail.com)
