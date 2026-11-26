@@ -1,0 +1,4 @@
+How many rows of data = 9994
+Column names = Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit
+Profit column has negatives = yes
+Highest discount = 0.8
